@@ -1,48 +1,42 @@
-# Cloud Engineer Portfolio
+# Hello, I'm Saurah Kumar 👋
 
-Welcome to my Cloud Engineer portfolio! Here you'll find information about my skills and expertise in Azure, AWS, and DevOps.
+Welcome to my GitHub profile! I'm a passionate Cloud Engineer with expertise in Azure, AWS, and DevOps. 
 
-## Azure
+![Cloud Engineer](https://media.giphy.com/media/3o7TKS53RAN3dRrWtq/giphy.gif)
 
-![Azure Logo](azure_logo.png)
+## Skills
 
-Azure is one of the leading cloud computing platforms, offering a wide range of services for computing, analytics, storage, and networking. As an Azure certified engineer, I have experience in deploying and managing applications on the Azure cloud platform.
+### Azure ☁️
+I have extensive experience working with Microsoft Azure, including:
+- Azure Virtual Machines
+- Azure Functions
+- Azure DevOps
+- Azure Storage
+- Azure App Services
 
-### Example Azure Deployment
+![Azure](https://media.giphy.com/media/26BRAq79T4iK4rKlK/giphy.gif)
 
-Here's a GIF demonstrating the deployment process of an application on Azure:
+### AWS 🚀
+Proficient in Amazon Web Services, I can help with:
+- EC2 Instances
+- S3 Buckets
+- Lambda Functions
+- AWS CloudFormation
+- AWS CLI
 
-![Azure Deployment GIF](azure_deployment.gif)
+![AWS](https://media.giphy.com/media/3oEduT2c5AXQhVd7La/giphy.gif)
 
-## AWS
+### DevOps 🛠️
+With DevOps skills, I focus on:
+- CI/CD Pipelines
+- Infrastructure as Code (IaC)
+- Docker
+- Kubernetes
+- Jenkins
 
-![AWS Logo](aws_logo.png)
+![DevOps](https://media.giphy.com/media/l0ExmT9IIasX2ysdy/giphy.gif)
 
-Amazon Web Services (AWS) is a comprehensive and widely used cloud platform, providing scalable and reliable cloud computing solutions. I am proficient in various AWS services and have experience in architecting and implementing cloud solutions on AWS.
+## Get in Touch
+📫 You can reach me via email at saurahkumar@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/saurahkumar/).
 
-### Example AWS Architecture
-
-Check out this architecture diagram showcasing a typical AWS cloud infrastructure:
-
-![AWS Architecture](aws_architecture.png)
-
-## DevOps
-
-![DevOps Logo](devops_logo.png)
-
-DevOps practices emphasize collaboration and automation between software development and IT operations teams, streamlining the software delivery process. As a DevOps practitioner, I leverage tools and methodologies to improve efficiency and quality in software development and deployment.
-
-### Continuous Integration/Continuous Deployment (CI/CD)
-
-Here's a GIF demonstrating a CI/CD pipeline in action, automating the build, test, and deployment process:
-
-![CI/CD Pipeline GIF](ci_cd_pipeline.gif)
-
-## Contact
-
-Feel free to reach out to me if you have any inquiries or collaboration opportunities:
-
-- Email: cloud.engineer@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-
-Let's connect and explore how I can contribute to your cloud projects!
+Let's collaborate and build amazing things together!
